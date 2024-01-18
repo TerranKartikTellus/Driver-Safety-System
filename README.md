@@ -5,4 +5,4 @@ Frontend [Repo](https://github.com/TerranKartikTellus/frontend-driver-safty-syst
 
 Backend [Repo](https://github.com/TerranKartikTellus/backend_driver_safety)
 
-Detailed Presentation [Repo]()
+Detailed Presentation [PDF](https://github.com/TerranKartikTellus/Driver-Safety-System/blob/main/Driver%20Safety%20Presentation.pdf)
